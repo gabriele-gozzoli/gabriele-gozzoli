@@ -1,16 +1,32 @@
-### Hi there 👋
+👋 **Here's a little bit about me:**
 
-<!--
-**ggozzoli/ggozzoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ Backend Software Engineer
+- 🌍 Based in Milan, Italy
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+
+
+#### Stats
+<a href="https://github.com/gabriele-gozzoli">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=gabriele-gozzoli&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
+  <img height="117px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriele-gozzoli&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
+</a>
+
+
+#### Find me
+<p>
+  <a href="mailto:g.gozzoli@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/gabriele-gozzoli">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriele-gozzoli">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
